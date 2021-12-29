@@ -285,7 +285,7 @@ const TraceList = ({
 					</Select>
 				</FormItem>
 
-				<FormItem name="latency">
+				<FormItem name="choose latency duration">
 					<Input type="button" onClick={onLatencyButtonClick} />
 				</FormItem>
 
